@@ -35,3 +35,9 @@ out/
 
 ### VS Code ###
 .vscode/
+
+/wrapper/dists/
+/caches/
+/native/
+/daemon/
+</attached_files>
